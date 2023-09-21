@@ -7,7 +7,12 @@ gogo
 again
 >>>>>>> Network_Test
 <<<<<<< HEAD
+<<<<<<< HEAD
 fdadfa
 =======
 a
 >>>>>>> b1
+=======
+b
+b2
+>>>>>>> b2
