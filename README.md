@@ -6,4 +6,8 @@ sososo
 gogo
 again
 >>>>>>> Network_Test
+<<<<<<< HEAD
 fdadfa
+=======
+a
+>>>>>>> b1
